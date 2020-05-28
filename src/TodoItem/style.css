@@ -1,0 +1,17 @@
+.todoItem{
+    margin: 15px;
+    cursor: pointer;
+    border: 1px solid #ccc!important;
+    border-radius: 5px;
+    padding: 5px;
+    
+
+}
+
+.completed{
+    text-decoration: line-through;
+}
+
+.todoItem.button {
+    margin: 10px;
+}
